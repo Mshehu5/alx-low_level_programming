@@ -4,7 +4,7 @@
 /**
 *main - is the begining point of our program
 *rand - ollects the random number
-Return: value is zero
+*Return: value is zero
 */
 int main(void)
 {
