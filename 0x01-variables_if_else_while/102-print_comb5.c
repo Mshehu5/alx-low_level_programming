@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - entry point to vawulence program
+*main - entry point to vawulence program
 *
-* Return: alway returns 0
+*Return: alway returns 0
 *
 */
 int main(void)
@@ -29,4 +29,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}			
+}
