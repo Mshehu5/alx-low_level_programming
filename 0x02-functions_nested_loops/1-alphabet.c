@@ -3,9 +3,9 @@
 /**
 *print_alphabet - check the code for Holberton School students.
 *
-*Return: xero always.
+*Return: zero always.
 */
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
 	char alp = 'a';
 
