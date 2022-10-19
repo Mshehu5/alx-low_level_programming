@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*print_alphabet- act as the beginning point
+*print_alphabet_10x - act as the beginning point
 *Return: always return 0
 */
 
@@ -12,11 +12,11 @@ void print_alphabet_x10(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		for(c = 'a'; c <= 'z'; c++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
 			_putchar(c);
 		}
 
 		_putchar('\n');
 	}
-}
+
