@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-*print_alphabet_10x - act as the beginning point
-*Return: always return 0
+*print_alphabet_x10 - acts as the beginning point
+*Return: zero always
 */
 
 void print_alphabet_x10(void)
