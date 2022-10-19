@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-*print_alphabet_x10 - acts as the beginning point
+*print_alphabet_x10 - func for forr loop acts as the beginning point
 *Return: zero always
 */
-
 void print_alphabet_x10(void)
 {
+
 	char c;
 	int i = 0;
 
